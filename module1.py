@@ -86,7 +86,6 @@ def remark(gene):
     return(remark)
 
 geneFile = open("Ecol_K12_MG1655_.ena", "r")
-amino_file = open("amino.ena", "w")
 
 #Temporary Variables
 slNo = 0
